@@ -43,15 +43,6 @@
 - Drop me a DM on GitHub  
 - Or check out my email in my profile (👀 recruiters, I see you)
 
----
-
-### Exhibit A: Past Projects  
-(Examples of your own repos – add links)
-
-- **WebMagic** – a React-based portfolio with modular components  
-- **UnityMazeRunner** – procedural maze generator + AI minions  
-- **BlenderBot** – Doodled AI robot concept (yes it’s adorable)  
-- **HindiTechTranslate** – translated 5+ tutorials into Hindi (tl;dr: language mashups rock)
 
 ---
 
