@@ -24,7 +24,7 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emotional-push&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emotional-push&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emotional-push&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=emotional-push&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -35,10 +35,10 @@ Here are a few things I've been tinkering with. Feel free to check them out, bre
 
 | Project Name            | Description                                                                 | Link         |
 |-------------------------|-----------------------------------------------------------------------------|--------------|
-| 🎮 **Retro-Rumble**     | A 2D pixel-art brawler game engine built from scratch in C++. It's all about nostalgia and button-mashing! | View on GitHub |
-| 🤖 **Open-Collab-Bot**  | A Discord bot to help open-source communities manage contributions, assign issues, and celebrate pull requests. | View on GitHub |
-| 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | View on GitHub |
-| 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | View on GitHub |
+| 🎮 **Retro-Rumble**     | A 2D pixel-art brawler game engine built from scratch in C++. It's all about nostalgia and button-mashing! | Working |
+| 🤖 **Open-Collab-Bot**  | A Discord bot to help open-source communities manage contributions, assign issues, and celebrate pull requests. | Working |
+| 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working|
+| 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Working |
 
 ---
 
