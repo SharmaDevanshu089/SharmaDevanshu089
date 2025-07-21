@@ -35,10 +35,10 @@ Here are a few things I've been tinkering with. Feel free to check them out, bre
 
 | Project Name            | Description                                                                 | Link         |
 |-------------------------|-----------------------------------------------------------------------------|--------------|
-| 🎮 **Retro-Rumble**     | A 2D pixel-art brawler game engine built from scratch in C++. It's all about nostalgia and button-mashing! | Working |
-| 🤖 **Open-Collab-Bot**  | A Discord bot to help open-source communities manage contributions, assign issues, and celebrate pull requests. | Working |
-| 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working|
-| 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Working |
+| 🎮 **Retro-Rumble**     | A 2D pixel-art brawler game engine built from scratch in C++. It's all about nostalgia and button-mashing! | Working on it |
+| 🤖 **Open-Collab-Bot**  | A Discord bot to help open-source communities manage contributions, assign issues, and celebrate pull requests. | Working on it|
+| 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it|
+| 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Its Just Blender Nodes|
 
 ---
 
