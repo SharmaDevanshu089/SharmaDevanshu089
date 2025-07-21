@@ -75,7 +75,7 @@ Think of this as my character sheet. I've been grinding these skills for a while
 I'm always looking to collaborate on interesting projects, especially in game development (love a good game jam!) or building open-source tools. If you have an idea or just want to talk tech, feel free to reach out!
 
 <p align="center">
-  <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/devanshu-sharma-9b7554237/" target="_blank">
     <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@example.com">
