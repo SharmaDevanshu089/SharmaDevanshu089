@@ -75,14 +75,14 @@ Think of this as my character sheet. I've been grinding these skills for a while
 I'm always looking to collaborate on interesting projects, especially in game development (love a good game jam!) or building open-source tools. If you have an idea or just want to talk tech, feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/devanshu-sharma-9b7554237/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
 
   </a>
   <a href="mailto:sharma.devanshu089@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40">
   </a>
-  <a href="https://www.youtube.com/channel/your-channel-id" target="_blank">
+  <a href="https://www.youtube.com/@PotatoAsUserName" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40">
   </a>
 </p>
