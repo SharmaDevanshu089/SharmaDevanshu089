@@ -22,9 +22,9 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Demotionl-push%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" /><br/>
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Demotionl-push%26layout%3Dcompact%26langs_count%3D8%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" /><br/>
-  <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Demotionl-push%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emotional-push&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emotional-push&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emotional-push&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
