@@ -75,14 +75,15 @@ Think of this as my character sheet. I've been grinding these skills for a while
 I'm always looking to collaborate on interesting projects, especially in game development (love a good game jam!) or building open-source tools. If you have an idea or just want to talk tech, feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devanshu-sharma-9b7554237/" target="_blank">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+  <a href="mailto:sharma.devanshu089@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40">
   </a>
-  <a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
+  <a href="https://www.youtube.com/channel/your-channel-id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40">
   </a>
 </p>
 
