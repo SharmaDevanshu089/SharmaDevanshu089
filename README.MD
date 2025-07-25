@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 👋 Howdy, I'm Devanshu (aka emotionl-push) 👋
+# 👋 Howdy, I'm Devanshu (aka SharmaDevanshu089) 👋
 
 A Computer Science student from Madhya Pradesh, India, who got into coding during the great lockdown of 2020 and never looked back. I'm a fast learner, a passionate game developer, and a firm believer in open-source. When I'm not writing code, I'm probably debugging it... or rage-quitting a Souls-like game.
 
@@ -22,8 +22,8 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emotional-push&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emotional-push&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmaDevanshu089&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaDevanshu089&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /><br/>
   <img src="https://streak-stats.demolab.com/?user=emotional-push&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
