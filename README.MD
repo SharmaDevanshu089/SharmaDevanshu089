@@ -35,7 +35,7 @@ Here are a few things I've been tinkering with. Feel free to check them out, bre
 
 | Project Name            | Description                                                                 | Link         |
 |-------------------------|-----------------------------------------------------------------------------|--------------|
-| 🎮 **Fast-Proj**     | It is an in Development Application which fully automates the common repetative tasks students like me do.This will help save a lot of Time. | Learning the Advanced Skills|
+| 📦 **AutoCrate**     | CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. It is my Flagship Project. | Learning the Advanced Skills|
 | 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it|
 | 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Its Just Blender Nodes|
 | 🧮 **CalCulator** | Just a Basic Calculator program I created while learning Rust. | <a href="https://github.com/SharmaDevanshu089/CalCulator">Click Here</a>|
