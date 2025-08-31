@@ -50,10 +50,8 @@ Think of this as my character sheet. I've been grinding these skills for a while
 ### ⚔️ Languages in my Arsenal
 
 - **Rust**: My current obsession; building fast, safe, and reliable software.
-- **C++**: For when I need speed and control (mostly for game dev).
 - **Python**: My go-to for scripting, automation, and when I'm feeling lazy.
 - **JavaScript**: Building things for the web and realizing I need another framework.
-- **GDScript**: For whipping up prototypes in the awesome Godot Engine.
 - **C#**: Exploring the Unity side of the gaming world.
 - **PHP**: Back when i thought it was cool.
 - **Bootstrap**: I hate declaring classes.
