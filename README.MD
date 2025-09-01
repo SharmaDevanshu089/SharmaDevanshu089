@@ -36,6 +36,7 @@ Here are a few things I've been tinkering with. Feel free to check them out, bre
 | Project Name            | Description                                                                 | Link         |
 |-------------------------|-----------------------------------------------------------------------------|--------------|
 | 📦 **AutoCrate**     | `V0.9.7`CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. | <a href="https://github.com/SharmaDevanshu089/autocrate">Click Here</a>|
+| 📩 **AutoCrate Installer**     | `V0.1.0`Blazingly fast, *cross-platform* Rust installer with async HTTP, secure *ZIP* extraction, and intelligent *OS-aware directory management* for GitHub Releases. Enterprise-grade error handling, comprehensive logging, zero-dependency workflows for seamless DevOps automation and CI/CD pipeline integration.| <a href="https://github.com/SharmaDevanshu089/Installer">Click Here</a>|
 | 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it|
 | 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Its Just Blender Nodes|
 | 🧮 **CalCulator** | Just a Basic Calculator program I created while learning Rust. | <a href="https://github.com/SharmaDevanshu089/CalCulator">Click Here</a>|
