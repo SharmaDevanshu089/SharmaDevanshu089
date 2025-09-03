@@ -60,6 +60,7 @@ Think of this as my character sheet. I've been grinding these skills for a while
 - **Java**: Back in 2020 it was goto lang.
 - **Bash**: I use Arch ,btw.
 - **React** : Currently learning to use with *Tauri*.
+- **Vite** : To use with react ofc : ).
 
 ### 🛠️ Tools & Frameworks in my Inventory
 
