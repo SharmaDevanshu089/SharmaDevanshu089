@@ -35,7 +35,7 @@ Here are a few things I've been tinkering with. Feel free to check them out, bre
 
 | Project Name            | Description                                                                 | Link         |
 |-------------------------|-----------------------------------------------------------------------------|--------------|
-| 📁 **Fille**     | `DEVELOPMENT`Rust-based, cross-platform file-sharing platform with AES-256 encryption, SHA256 integrity, and serverless GitHub-powered distribution. | [![Click Here](https://img.shields.io/badge/Demo-Launch-blue?style=for-the-badge&logo=github)](https://github.com/SharmaDevanshu089/Fillie)|
+| 📁 **Fille**     | `DEVELOPMENT`Rust-based, cross-platform file-sharing platform with AES-256 encryption, SHA256 integrity, and serverless GitHub-powered distribution. | [![Check out Fillie](https://img.shields.io/badge/🚀%20Check%20out%20Fillie-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/fillie)|
 | 📦 **AutoCrate**     | `V0.9.7`CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. | <a href="https://github.com/SharmaDevanshu089/autocrate">Click Here</a>|
 | 📩 **AutoCrate Installer**     | `V0.4.1`Lightweight Rust installer that automates downloading and installing binaries from GitHub Releases with cross-platform support.| <a href="https://github.com/SharmaDevanshu089/Installer">Click Here</a>|
 | 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it|
