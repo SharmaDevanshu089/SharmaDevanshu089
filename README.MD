@@ -33,15 +33,16 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 
 Here are a few things I've been tinkering with. Feel free to check them out, break them, and maybe even contribute!
 
-| Project Name            | Description                                                                 | Link         |
-|-------------------------|-----------------------------------------------------------------------------|--------------|
-| 📁 **Fille**     | `DEVELOPMENT`Rust-based, cross-platform file-sharing platform with AES-256 encryption, SHA256 integrity, and serverless GitHub-powered distribution. | [![Check out Fillie](https://img.shields.io/badge/🚀%20Check%20out%20Fillie-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/fillie)|
-| 📦 **AutoCrate**     | `V0.9.7`CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. | <a href="https://github.com/SharmaDevanshu089/autocrate">Click Here</a>|
-| 📩 **AutoCrate Installer**     | `V0.4.1`Lightweight Rust installer that automates downloading and installing binaries from GitHub Releases with cross-platform support.| <a href="https://github.com/SharmaDevanshu089/Installer">Click Here</a>|
-| 📝 **Markdown-Story-Engine** | A simple tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it|
-| 🌌 **Procedural Planet Gen** | Messing around with shaders and procedural generation to create unique, explorable planets. So far, I've made 3 planets and 1 that looks suspiciously like a potato. | Its Just Blender Nodes|
-| 🧮 **CalCulator** | Just a Basic Calculator program I created while learning Rust. | <a href="https://github.com/SharmaDevanshu089/CalCulator">Click Here</a>|
-| 📐 **Basic Area Shape Calculator** | A Program which Calculates the area of a Shape when Given Values.I tried Proper Error handling here . | <a href="https://github.com/SharmaDevanshu089/_ShapeAreaCalculatulatolator">Click Here</a>|
+| Project Name              | Description                                                                 | Link |
+|---------------------------|-----------------------------------------------------------------------------|------|
+| 📁 **Fillie**             | ![Status](https://img.shields.io/badge/status-development-yellow) <br> Rust-based, cross-platform file-sharing platform with AES-256 encryption, SHA256 integrity, and serverless GitHub-powered distribution. | [![Check out Fillie](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/fillie) |
+| 📦 **AutoCrate**          | ![Version](https://img.shields.io/badge/version-0.9.7-blue) <br> CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. | [🔗 Click Here](https://github.com/SharmaDevanshu089/autocrate) |
+| 📩 **AutoCrate Installer**| ![Version](https://img.shields.io/badge/version-0.4.1-blue) <br> Lightweight Rust installer that automates downloading and installing binaries from GitHub Releases with cross-platform support. | [🔗 Click Here](https://github.com/SharmaDevanshu089/Installer) |
+| 📝 **Markdown-Story-Engine** | ![Status](https://img.shields.io/badge/status-experimental-orange) <br> A tool that turns branching Markdown files into a playable "Choose Your Own Adventure" game in the browser. | Working on it |
+| 🌌 **Procedural Planet Gen** | ![Status](https://img.shields.io/badge/status-experimental-orange) <br> Playing with shaders & procedural generation to create explorable planets (3 working, 1 potato 🥔). | Blender nodes only |
+| 🧮 **CalCulator**         | ![Status](https://img.shields.io/badge/status-archived-lightgrey) <br> A basic calculator program I created while learning Rust. | [🔗 Click Here](https://github.com/SharmaDevanshu089/CalCulator) |
+| 📐 **Basic Area Shape Calculator** | ![Status](https://img.shields.io/badge/status-archived-lightgrey) <br> Program that calculates shape areas with error handling. | [🔗 Click Here](https://github.com/SharmaDevanshu089/_ShapeAreaCalculatulatolator) |
+
 
 ---
 
