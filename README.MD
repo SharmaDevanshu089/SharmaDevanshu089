@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6d2p2ZjlhZzJ2bW14cXBpNzgzaG14ZzB6bHBvM3dnbTNsaDI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiwE/giphy.gif" alt="Funny cat gif" width="300">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6d2p2ZjlhZzJ2bW14cXBpNzgzaG14ZzB6bHBvM3dnbTNsaDI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiwE/giphy.gif" alt="Funny cat gif" width="300">
   </a>
 </p>
 
-# 👋 Howdy, I'm Devanshu (aka SharmaDevanshu089) 👋
+<h1 align="center">👋 Howdy, I'm Devanshu (aka SharmaDevanshu089) 👋</h1>
 
-A Computer Science student from Madhya Pradesh, India, who got into coding during the great lockdown of 2020 and never looked back. I'm a fast learner, a passionate game developer, and a firm believer in open-source. I specialize in **Rust** and am deeply committed to contributing to open-source projects. When I'm not writing code, I'm probably debugging it... or rage-quitting a Souls-like game.
+A Computer Science student from Madhya Pradesh, India, who got into coding during the great lockdown of 2020 and never looked back. I'm a fast learner, a passionate game developer, and a **high-performance software engineer**. I specialize heavily in **Rust**, **Systems Programming**, and building native applications, prioritizing real-world execution and memory-safe architecture over theoretical fluff. When I'm not writing low-level OS integrations or contributing to open-source projects, I'm probably debugging... or rage-quitting a Souls-like game.
 
 ---
 
@@ -14,6 +14,7 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 
 - [My GitHub Stats](#-my-github-stats)
 - [My Projects](#-my-projects)
+- [Open Source Contributions](#-open-source-contributions)
 - [My Skill Tree](#-my-skill-tree)
 - [Let's Connect](#-lets-connect)
 
@@ -22,80 +23,88 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 ## 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadevanshu089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadevanshu089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 My Projects
 
-Here are a few things I've been tinkering with. Feel free to check them out, break them, and maybe even contribute!
+Here is the heavy machinery I've been building. Feel free to check the source, break them, or contribute!
 
-| Project Name              | Description                                                                 | Link |
-|---------------------------|-----------------------------------------------------------------------------|------|
-| 📁 **Fillie**             | ![Status](https://img.shields.io/badge/status-development-yellow?style=flat-square) <br> Rust-based, cross-platform file-sharing platform with AES-256 encryption, SHA256 integrity, and serverless GitHub-powered distribution. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/fillie) |
-| 🤖 **Clause-AI**             |![Status: Paused](https://img.shields.io/badge/Status-Paused-orange?style=flat-square) ![Stage: Experimental](https://img.shields.io/badge/Stage-Experimental-yellow?style=flat-square)<br> Developed a full-stack, AI-driven tool to enhance legal comprehension for everyday users. The application utilizes a performant Rust backend to interface with the Google Gemini API, delivering actionable insights and summaries from dense legal text.|[![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/Clause-AI) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/SharmaDevanshu089/Clause-AI) |
-| 📦 **AutoCrate**          | ![Version](https://img.shields.io/github/v/release/sharmadevanshu089/autocrate?style=flat-square&color=blue) <br> CLI tool that auto-creates sequential Rust projects, inits git, and opens in editor. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/autocrate) |
-| 📩 **AutoCrate Installer**| ![Version](https://img.shields.io/github/v/release/sharmadevanshu089/Installer?style=flat-square&color=blue) <br> Lightweight Rust installer that automates downloading and installing binaries from GitHub Releases with cross-platform support. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/Installer) |
-| 💬 **from-user (*input*)**| ![Version](https://img.shields.io/github/v/release/sharmadevanshu089/input?style=flat-square&color=blue) <br> A tiny, highly simplified Rust input helper | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/input) |
-| 🌌 **Procedural Planet Gen** | ![Status](https://img.shields.io/badge/status-experimental-orange?style=flat-square) <br> Playing with shaders & procedural generation to create explorable planets (3 working, 1 potato 🥔). | Blender nodes only |
-| 🧮 **CalCulator**         | ![Status](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) <br> A basic calculator program I created while learning Rust. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/CalCulator) |
-| 📐 **Basic Area Shape Calculator** | ![Status](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square) <br> Program that calculates shape areas with error handling. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/_ShapeAreaCalculatulatolator) |
+| Project Name | Description | Link |
+|---|---|---|
+| 🔒 **Lockr** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> Cross-platform file/folder encryption app with AES-256, Rust backend, and a reactive Tauri + SvelteKit frontend. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/lockr) |
+| 🗝️ **Open Vault** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> Local-first Windows password manager utilizing OS Keyring security, Argon2id hashing, and Win32 UI effects via FFI. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/open-vault) |
+| ⚙️ **env-loader** | ![Status](https://img.shields.io/crates/v/env-loader?style=flat-square&color=orange) <br> Published Crate: Asynchronous `.env` file reader designed to resiliently bypass broken key-value pairs. | [![Crates.io](https://img.shields.io/badge/📦%20Crates.io-orange?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/env-loader) |
+| 🗄️ **Env-Explorer** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> Desktop dashboard with an ultrafast Windows MSVC filesystem crawler scanning environments in sub-100ms latency. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/Env-Explorer) |
+| 🛡️ **Rust Auth Service** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> Async REST API with Axum, Tokio, and PostgreSQL using blocking threads to safely handle bcrypt hashing. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/rust-auth-service) |
+| 📁 **Fillie** | ![Status](https://img.shields.io/badge/status-development-yellow?style=flat-square) <br> Rust-based file-sharing platform with AES-256 encryption, SHA256 integrity, and GitHub-powered distribution. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/fillie) |
+| 🧠 **Protege** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> AI-powered coding companion designed to prevent developer skill atrophy by forcing deep code understanding. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089) |
+| 🤖 **Clause-AI** | ![Status](https://img.shields.io/badge/Status-Paused-orange?style=flat-square) <br> Generative AI legal comprehension endpoint built during the Google Gen AI Hackathon. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/SharmaDevanshu089/Clause-AI) |
+| 📦 **AutoCrate & Installer** | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) <br> Blazingly fast CLI utilities to automate Rust project initialization and perform secure OS-aware binary installations via async HTTP. | [![Repo](https://img.shields.io/badge/🚀%20Repo-blue?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/sharmadevanshu089/autocrate) |
 
+---
 
+## 🌍 Open Source Contributions
+
+I believe in building out in the open. Here are a few places where my code lives in other people's repositories:
+
+*   **Project Mauzi:** Implemented Tauri's native window dragging region into the app windows and identified/reported a major critical handling issue.
+*   **DesktopGo:** Implemented native Windows Acrylic transparency effects into the Spotlight-style launcher using Rust and Win32 API integration.
 
 ---
 
 ## 💼 My Skill Tree
 
-Think of this as my character sheet. I've been grinding these skills for a while now.
+Think of this as my character sheet. I've been heavily grinding these skills to build production-ready systems.
 
 ### ⚔️ Languages in my Arsenal
 
-- **Rust**: My current obsession; building fast, safe, and reliable software.
-- **Tauri** : My Tool for Creating Gui for my Rust Apps.
-- **Python**: My go-to for scripting, automation, and when I'm feeling lazy.
-- **JavaScript**: Building things for the web and realizing I need another framework.
+- **Rust**: My core weapon. Memory safety, fearless concurrency, and blazing speed.
+- **JavaScript / TypeScript**: Essential for building the frontends that talk to my heavy backends.
+- **Python**: My go-to for automation, scripting, and rapid testing.
+- **C++**: The foundation of performance and exploring game modding.
 - **C#**: Exploring the Unity side of the gaming world.
-- **PHP**: Back when i thought it was cool.
-- **Bootstrap**: I hate declaring classes.
-- **Java**: Back in 2020 it was goto lang.
-- **Bash**: I use Arch ,btw.
-- **React** : Currently learning to use with *Tauri*.
-- **Vite** : To use with react ofc : ).
+- **Bash**: I use Linux, btw.
 
-### 🛠️ Tools & Frameworks in my Inventory
+### 🛠️ Architecture, Systems & Frameworks
 
-- **Git & GitHub**: I commit more often than I commit to my New Year's resolutions.
-- **Unity**: For when I'm feeling a bit more mainstream.
-- **Neo Vim**: The one true editor (fight me).
-- **Linux**: My preferred environment for getting things done.
-- **Blender** : One of the Best free Creative Software out there. I am Addicted.
+- **Systems & OS**: Linux Kernel, Windows OS Fundamentals, Win32 APIs (FFI).
+- **Desktop & Web Frameworks**: Tauri (Native GUI), Axum (REST APIs), Svelte/SvelteKit, React.
+- **Async & DBs**: Tokio, async-std, PostgreSQL (async Diesel + bb8).
+- **Specializations**: Cryptography (AES-256, Argon2id), AI Development, and CUDA Dev.
+- **Blockchain**: Solana Smart Contracts, Anchor Framework, PDA Management.
 
-### 🌱 I'm Currently Learning...
+### 🎒 Tools in my Inventory
 
-- React for those smooth ui.
-- Blender 3D , yeah i call that hobby.
-- Advanced Programming in Rust like Fully End User GUI Applications.
-- How to write better documentation so my future self doesn't get angry at my past self.
+- **Git & GitHub**: I commit more often than I commit to my New Year's resolutions (1,000+ contributions).
+- **NeoVim**: The one true editor (fight me).
+- **Blender**: My hobby hub for procedural planet generation and 3D rendering.
+
+### 🌱 I'm Currently Exploring...
+
+- Deep-diving into sub-second filesystem crawlers and low-latency MSVC builds.
+- Expanding CUDA dev skills for high-performance computing.
+- SvelteKit view transitions and shared element transitions for fluid desktop UIs.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always looking to collaborate on interesting projects, especially in **Rust**, game development (love a good game jam!), or building open-source tools. If you have an idea or just want to talk tech, feel free to reach out!
+I'm always looking to collaborate on hardcore **Rust** architecture, AI integrations, systems programming, or open-source tools. If you have an idea or just want to talk tech, feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devanshu-sharma-9b7554237/" target="_blank" style="margin: 0 15px;">
+  <a href="https://linkedin.com/in/sharmadevanshu089" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="mailto:sharma.devanshu089@gmail.com" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40">
   </a>
-  <a href="https://www.youtube.com/@PotatoAsUserName" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" width="40" height="40">
+  <a href="https://sharmadevanshu089.github.io" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" alt="Portfolio" width="40" height="40">
   </a>
 </p>
 
