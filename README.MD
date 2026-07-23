@@ -23,8 +23,8 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadevanshu089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
