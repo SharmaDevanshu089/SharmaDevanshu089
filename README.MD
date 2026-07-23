@@ -25,7 +25,8 @@ A Computer Science student from Madhya Pradesh, India, who got into coding durin
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharmadevanshu089&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadevanshu089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmadevanshu089&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br />
+  <img src="https://4zflvhxxd3r47zdt5oyc5fvnze0gwhcm.lambda-url.ap-south-1.on.aws/" alt="My Custom Lambda Svg Deployment" />
 </p>
 
 ---
